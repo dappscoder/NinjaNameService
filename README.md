@@ -2,7 +2,10 @@
 Japanese Name Service. It's related CryptoNinjaProject.
 
 # LICENSE
-商用利用禁止、著作権表示必要、免責条項
+BSL1.1
+NinjaNameService
+7年間は、商用利用禁止、著作権表示必要、免責条項。
+7年後にMIT Licenseに
 
 # Contract Address
 Mainnet:0x41D054f3D817DC63F509d4a5AAcBe7B9c123b14f
